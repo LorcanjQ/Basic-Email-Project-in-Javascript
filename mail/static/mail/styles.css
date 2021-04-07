@@ -1,0 +1,28 @@
+textarea {
+    min-height: 400px;
+}
+
+.B{
+  border-style:solid;
+  border-width: thin;
+  list-style-type:none;
+  background-color: white;
+  cursor: pointer;
+
+}
+
+.B.unread{
+    background-color: lightgrey;
+}
+
+.time {
+  float: right;
+}
+
+.recip {
+  color:grey;
+}
+
+.content{
+  white-space: pre-wrap;
+}
